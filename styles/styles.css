@@ -1,0 +1,77 @@
+/*Montserrat y Roboto */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;900&family=Roboto:wght@400;500&display=swap'); 
+
+/*front-family: 'Montserrat', sans-serif; */
+/*front-family: 'Roboto', sans-serif; */
+/*1rem = 16px*/ 
+/* Estilos generales para el cuerpo de la página */ 
+
+
+/* Index QuieroFut */    
+body {
+    background-color: #16191c;
+    font-family: 'Roboto', sans-serif; 
+    color: #cbd5e1; 
+
+}       
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    color: #00b4d8;
+    font-size: 36px;
+    font-weight: 900;
+    text-transform: uppercase;
+    
+} 
+            
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #94a3b8;
+    font-size: 24px;
+    font-weight: 700;
+    
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #00b4d8;
+    font-size: 20px;
+    font-weight: 700;
+    
+}
+
+p{
+    color: #94a3b8;
+    font-size: 16px;
+    
+}
+
+.parrafo-alternativo{
+    color: #38bdf8;
+    font-size: 14px;
+
+}
+
+/*estilos Nav */
+.menu-principal{
+    background-color: #1e232a;  
+    
+}
+
+
+.lista-navegacion{
+    list-style: none;
+}
+
+.enlace-nav{
+    color: #fffffffa;
+    text-decoration: none;
+    padding: 16px;
+}   
+
+/*Estilos Footer */
+footer{
+    background-color: #1e232a;
+    color: #fffffffa;
+    padding: 14px;
+}   
